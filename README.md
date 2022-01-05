@@ -1,4 +1,4 @@
-<h3>Greetings, I'm Isaac</h3>
+<h3>Greetings, I'm Isaac!</h3>
 <img align="right" height=200 src="https://media.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif">
 <p>There's nothing here yet...</p>
 <!--
